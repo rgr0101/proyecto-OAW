@@ -3,5 +3,5 @@
 ## Integrantes
 ### Roger Alejandro Pacheco Yamá
 ### Juan Enrique Ayala Gaspar
-### Erik
+### Romellon Lorenzana Erik Jesús
 
